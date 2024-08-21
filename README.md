@@ -1,3 +1,5 @@
+![Banco de Dados Relacional](https://www.alura.com.br/artigos/assets/banco-de-dados/o-que-e-um-banco-de-dados.png)
+
 # 💻 Banco de Dados Relacional - Fatec Jacareí
 
 ## 🏫 Descrição
