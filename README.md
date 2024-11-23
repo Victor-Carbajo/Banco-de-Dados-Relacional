@@ -4,7 +4,7 @@
 
 ## 🏫 Descrição
 
-Bem-vindo ao meu repositório de atividades do curso de **Banco de Dados Relacional** ministrado pelo Professor Mestre **Rodrigo Monteiro de Barros Santana** na **Fatec Jacareí**.
+Bem-vindo ao meu repositório de atividades do curso de **Banco de Dados Relacional** ministrado pela Professora Especialista **Lucineide Nunes Pimenta** na **Fatec Jacareí**.
 
 ## 📚 Conteúdo
 
